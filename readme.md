@@ -1,7 +1,9 @@
 # Tidal MIDI Custom Synth Template
 This is a template project to help you define custom TidalCycles MIDI synth modules.
 
-Not familiar with TidalCycles? Do not fear: [http://tidalcycles.org](http://tidalcycles.org).
+Not familiar with TidalCycles? Do not fear: http://tidalcycles.org.
+
+More information about TidalCycles MIDI can be found at https://github.com/tidalcycles/tidal-midi.
 
 # Instructions
 
