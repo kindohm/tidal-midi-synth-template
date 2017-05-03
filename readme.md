@@ -8,7 +8,7 @@ Not familiar with TidalCycles? Do not fear: [http://tidalcycles.org](http://tida
 Really, you just need to replace these generic "CustomSynth" strings in the files here with
 your own custom synth names. You will need to replace _both a module name and a controller name_.
 
-Please refer to <THIS AWESOME YOUTUBE TUTORIAL> for a walk-through.
+Please refer to ***THIS AWESOME YOUTUBE TUTORIAL*** for a walk-through.
 
 1. In the `CustomSynth.cabal` and `CustomSynth.hs` files, replace `%MODULE_NAME%` with the name
 of your synth module. e.g. `EpicSynth`
