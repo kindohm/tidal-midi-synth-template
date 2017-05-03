@@ -1,0 +1,13 @@
+-- replace %MODULE_NAME% with the name of your module. 
+-- DO NOT use spaces. USE camel casing. START with an uppercase letter.
+-- e.g. "CustomSynth"
+name:                %MODULE_NAME%
+version:             0.0.1
+cabal-version:       >=1.4
+build-type:          Simple
+
+Description: a useful description
+
+library
+  Exposed-modules: %MODULE_NAME%
+  Build-depends: base < 5, tidal-midi == 0.9.*, tidal, PortMidi, process, hashable, containers, hosc, time, bytestring
